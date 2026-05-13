@@ -9,9 +9,13 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAll",
         policy =>
         {
-            policy.WithOrigins("http://localhost:5174", "https://mini-shop.azurewebsites.net") // H?r iki ehtimal? ?lav? etdik
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
+            policy
+                .WithOrigins(
+                    "http://localhost:5175",
+                    "https://mini-shop.azurewebsites.net"
+                )
+                .AllowAnyHeader()
+                .AllowAnyMethod();
         });
 });
 
@@ -27,9 +31,12 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
-app.UseSwagger();
-app.UseSwaggerUI();
 app.UseHttpsRedirection();
 
 // 2. MÜHÜM: UseCors mütl?q UseAuthorization-dan ?VV?L v? MapControllers-d?n ?VV?L g?lm?lidir
