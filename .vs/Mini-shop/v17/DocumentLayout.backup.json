@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,18 +58,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mini-shop.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
-              "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
-              "RelativeToolTip": "Mini-shop\\Mini-shop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-09T10:15:28.45Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "20260509105419_mini-shop.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
@@ -78,8 +66,7 @@
               "RelativeToolTip": "Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T10:54:20.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T10:54:20.64Z"
             },
             {
               "$type": "Document",
@@ -91,8 +78,7 @@
               "RelativeToolTip": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T10:43:16.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T10:43:16.998Z"
             },
             {
               "$type": "Document",
@@ -100,9 +86,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs*",
-              "RelativeToolTip": "Mini-shop\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
+              "RelativeToolTip": "Mini-shop\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T10:36:12.201Z",
               "EditorCaption": ""
@@ -129,8 +115,19 @@
               "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T10:18:06.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T10:18:06.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mini-shop.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeToolTip": "Mini-shop\\Mini-shop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T10:15:28.45Z"
             },
             {
               "$type": "Document",
