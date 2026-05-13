@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Mini_shop.Controllers.CardController",
+    "Method": "Get",
+    "RelativePath": "api/Card",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_shop.Controllers.CardController",
+    "Method": "Post",
+    "RelativePath": "api/Card",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "card",
+        "Type": "Mini_shop.Models.Card",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_shop.Controllers.CardController",
+    "Method": "Delete",
+    "RelativePath": "api/Card",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_shop.Controllers.CardController",
+    "Method": "Update",
+    "RelativePath": "api/Card",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCard",
+        "Type": "Mini_shop.Models.Card",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
