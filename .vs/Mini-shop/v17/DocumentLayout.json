@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\migrations\\20260509105419_mini-shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\migrations\\20260509105419_mini-shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\mini-shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\mini-shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\migrations\\20260512090402_createcardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\migrations\\20260512090402_createcardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Mini-shop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\appsettings.json",
+              "RelativeToolTip": "Mini-shop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T10:13:24.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mini-shop.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeToolTip": "Mini-shop\\Mini-shop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T10:15:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260509105419_mini-shop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
+              "RelativeToolTip": "Mini-shop\\Migrations\\20260509105419_mini-shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:54:20.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:43:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
+              "RelativeToolTip": "Mini-shop\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:36:12.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\.gitignore",
+              "RelativeDocumentMoniker": "Mini-shop\\.gitignore",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\.gitignore",
+              "RelativeToolTip": "Mini-shop\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-13T16:12:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:18:06.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Card.cs",
+              "RelativeToolTip": "Mini-shop\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:18:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260512090402_CreateCardTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260512090402_CreateCardTable.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Migrations\\20260512090402_CreateCardTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260512090402_CreateCardTable.cs",
+              "RelativeToolTip": "Mini-shop\\Migrations\\20260512090402_CreateCardTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:04:03.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
