@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mini-shop.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
+              "RelativeToolTip": "Mini-shop\\Mini-shop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T10:15:28.45Z"
             },
             {
               "$type": "Document",
@@ -88,9 +100,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
-              "RelativeToolTip": "Mini-shop\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs*",
+              "RelativeToolTip": "Mini-shop\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T10:36:12.201Z",
               "EditorCaption": ""
@@ -119,22 +131,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T10:18:06.484Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mini-shop.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
-              "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
-              "RelativeToolTip": "Mini-shop\\Mini-shop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-09T10:15:28.45Z"
             },
             {
               "$type": "Document",
@@ -171,6 +167,10 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T09:04:03.803Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

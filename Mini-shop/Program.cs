@@ -27,13 +27,9 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
 
+app.UseSwagger();
+app.UseSwaggerUI();
 app.UseHttpsRedirection();
 
 // 2. MÜHÜM: UseCors mütl?q UseAuthorization-dan ?VV?L v? MapControllers-d?n ?VV?L g?lm?lidir
