@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CardController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
               "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T05:44:03.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Program.cs",

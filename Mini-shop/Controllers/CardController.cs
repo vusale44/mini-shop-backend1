@@ -33,7 +33,8 @@ namespace Mini_shop.Controllers
     
 
 
-        [HttpDelete("id")] 
+        [HttpDelete("{id}")] 
+
         public async Task<IActionResult> Delete(int id)
         {
             Card card = await _db.Card.FindAsync(id);
