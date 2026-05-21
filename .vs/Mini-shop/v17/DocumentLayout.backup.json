@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\appsettings.json",
               "RelativeDocumentMoniker": "Mini-shop\\appsettings.json",
@@ -58,11 +58,12 @@
               "RelativeToolTip": "Mini-shop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-14T05:45:48.403Z"
+              "WhenOpened": "2026-05-14T05:45:48.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
@@ -70,11 +71,12 @@
               "RelativeToolTip": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:45:22.698Z"
+              "WhenOpened": "2026-05-14T05:45:22.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Card.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Models\\Card.cs",
@@ -82,7 +84,8 @@
               "RelativeToolTip": "Mini-shop\\Models\\Card.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:44:10.173Z"
+              "WhenOpened": "2026-05-14T05:44:10.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,26 +95,27 @@
               "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs*",
               "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T05:44:03.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Program.cs",
               "RelativeToolTip": "Mini-shop\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T03:51:33.001Z"
+              "WhenOpened": "2026-05-14T03:51:33.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\.gitignore",
               "RelativeDocumentMoniker": "Mini-shop\\.gitignore",

@@ -44,7 +44,7 @@ namespace Mini_shop.Controllers
             return Ok(new { message = "Məhsul uğurla silindi" });
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<IActionResult> Update(Card updateCard)
         {
            _db.Card.Update(updateCard);
