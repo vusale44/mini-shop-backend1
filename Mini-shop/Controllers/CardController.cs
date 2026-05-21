@@ -44,11 +44,13 @@ namespace Mini_shop.Controllers
             return Ok(new { message = "Məhsul uğurla silindi" });
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Update(Card updateCard)
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, Card updateCard)
         {
-           _db.Card.Update(updateCard);
+            var card = await _db.Card.FindAsync(id);
+            if (card == null) return NotFound();
 
+            _db.Entry(card).CurrentValues.SetValues(updateCard);
             await _db.SaveChangesAsync();
             return Ok();
         }
