@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,10 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
@@ -58,8 +54,7 @@
               "RelativeToolTip": "Mini-shop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-14T05:45:48.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T05:45:48.403Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "RelativeToolTip": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:45:22.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T05:45:22.698Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,7 @@
               "RelativeToolTip": "Mini-shop\\Models\\Card.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:44:10.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T05:44:10.173Z"
             },
             {
               "$type": "Document",
@@ -95,7 +88,7 @@
               "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs*",
               "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T05:44:03.092Z",
               "EditorCaption": ""
@@ -110,8 +103,7 @@
               "RelativeToolTip": "Mini-shop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T03:51:33.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T03:51:33.001Z"
             },
             {
               "$type": "Document",
@@ -124,6 +116,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-05-14T03:43:39.965Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
