@@ -49,6 +49,7 @@ namespace Mini_shop.Controllers
         {
             var card = await _db.Card.FindAsync(id);
             if (card == null) return NotFound();
+            updateCard.Id = id;
 
             _db.Entry(card).CurrentValues.SetValues(updateCard);
             await _db.SaveChangesAsync();
