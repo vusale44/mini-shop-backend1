@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\migrations\\20260605214851_updatecommentfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\migrations\\20260605214851_updatecommentfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\mini-shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\mini-shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\migrations\\20260605200049_createcommenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\migrations\\20260605200049_createcommenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|solutionrelative:mini-shop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18FF99B3-587F-4282-BD15-7E6D22B411B4}|Mini-shop\\Mini-shop.csproj|c:\\users\\admin\\source\\repos\\mini-shop\\mini-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mini-shop.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Mini-shop.csproj",
               "RelativeDocumentMoniker": "Mini-shop\\Mini-shop.csproj",
@@ -68,19 +68,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-05T19:49:54.067Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260605214851_UpdateCommentFields.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
-              "RelativeDocumentMoniker": "Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
-              "RelativeToolTip": "Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:48:54.387Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -93,25 +80,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Mini-shop\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Comment.cs",
-              "RelativeToolTip": "Mini-shop\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "20260605214851_UpdateCommentFields.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
+              "RelativeToolTip": "Mini-shop\\Migrations\\20260605214851_UpdateCommentFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T19:55:39.805Z",
+              "WhenOpened": "2026-06-05T21:48:54.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CommentController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CommentController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CommentController.cs",
               "RelativeToolTip": "Mini-shop\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T19:52:04.483Z",
               "EditorCaption": ""
@@ -131,6 +118,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:44:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Mini-shop\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Models\\Comment.cs",
+              "RelativeToolTip": "Mini-shop\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:55:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
@@ -138,12 +150,11 @@
               "RelativeToolTip": "Mini-shop\\DataAccessLayer\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:45:22.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T05:45:22.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260605200049_CreateCommentTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Migrations\\20260605200049_CreateCommentTable.cs",
               "RelativeDocumentMoniker": "Mini-shop\\Migrations\\20260605200049_CreateCommentTable.cs",
@@ -164,18 +175,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T05:44:10.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CardController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
-              "RelativeDocumentMoniker": "Mini-shop\\Controllers\\CardController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Mini-shop\\Mini-shop\\Controllers\\CardController.cs",
-              "RelativeToolTip": "Mini-shop\\Controllers\\CardController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:44:03.092Z"
             },
             {
               "$type": "Document",

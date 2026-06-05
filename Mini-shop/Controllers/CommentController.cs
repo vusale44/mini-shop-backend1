@@ -16,7 +16,15 @@ namespace Mini_shop.Controllers
             _db = db;
         }
 
-        // 1. MÜŞTƏRİ ÜÇÜN: Yalnız təsdiqlənmiş rəyləri gətir (Məhsul ID-sinə görə)
+        // 1. BÜTÜN RƏYLƏRİ GƏTİR (Təsdiqlənmişləri filtrləmək üçün əlavə olundu)
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            var allComments = await _db.Comment.ToListAsync();
+            return Ok(allComments);
+        }
+
+        // 2. MÜŞTƏRİ ÜÇÜN: Yalnız təsdiqlənmiş rəyləri gətir
         [HttpGet("product/{productId}")]
         public async Task<IActionResult> GetApprovedComments(int productId)
         {
@@ -27,7 +35,7 @@ namespace Mini_shop.Controllers
             return Ok(comments);
         }
 
-        // 2. ADMİN ÜÇÜN: Təsdiq gözləyən rəyləri gətir
+        // 3. ADMİN ÜÇÜN: Təsdiq gözləyən rəyləri gətir
         [HttpGet("pending")]
         public async Task<IActionResult> GetPendingComments()
         {
@@ -38,27 +46,23 @@ namespace Mini_shop.Controllers
             return Ok(comments);
         }
 
-        // 3. MÜŞTƏRİ ÜÇÜN: Yeni rəy yazmaq
+        // 4. MÜŞTƏRİ ÜÇÜN: Yeni rəy yazmaq
         [HttpPost]
         public async Task<IActionResult> Post(Comment comment)
         {
-            // Təhlükəsizlik: Kimsə kənardan true göndərsə belə, biz məcbur false edirik
             comment.IsApproved = false;
-
             await _db.Comment.AddAsync(comment);
             await _db.SaveChangesAsync();
 
-            return Ok(new { message = "Rəy uğurla göndərildi və təsdiq gözləyir.", data = comment });
+            return Ok(new { message = "Rəy uğurla göndərildi.", data = comment });
         }
 
-        // 4. ADMİN ÜÇÜN: Rəyi silmək (Sənin kodun olduğu kimi qalır)
+        // 5. ADMİN ÜÇÜN: Rəyi silmək
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var comment = await _db.Comment.FindAsync(id);
-
-            if (comment == null)
-                return NotFound();
+            if (comment == null) return NotFound();
 
             _db.Comment.Remove(comment);
             await _db.SaveChangesAsync();
@@ -66,32 +70,28 @@ namespace Mini_shop.Controllers
             return Ok(new { message = "Comment silindi" });
         }
 
-        // 5. ADMİN ÜÇÜN: Rəyi təsdiqləmək
+        // 6. ADMİN ÜÇÜN: Rəyi təsdiqləmək
         [HttpPut("approve/{id}")]
         public async Task<IActionResult> Approve(int id)
         {
             var comment = await _db.Comment.FindAsync(id);
+            if (comment == null) return NotFound();
 
-            if (comment == null)
-                return NotFound();
-
-            comment.IsApproved = true; // Statusu dəyişirik
+            comment.IsApproved = true;
             await _db.SaveChangesAsync();
 
             return Ok(new { message = "Rəy təsdiqləndi" });
         }
 
-        // 6. ADMİN ÜÇÜN: Rəyə cavab yazmaq və eyni anda təsdiqləmək
+        // 7. ADMİN ÜÇÜN: Rəyə cavab yazmaq
         [HttpPut("reply/{id}")]
         public async Task<IActionResult> Reply(int id, [FromBody] string adminReplyText)
         {
             var comment = await _db.Comment.FindAsync(id);
-
-            if (comment == null)
-                return NotFound();
+            if (comment == null) return NotFound();
 
             comment.AdminReply = adminReplyText;
-            comment.IsApproved = true; // Cavab verilirsə, avtomatik təsdiqlənmiş sayılır
+            comment.IsApproved = true;
 
             await _db.SaveChangesAsync();
 
