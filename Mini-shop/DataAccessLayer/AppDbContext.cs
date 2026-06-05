@@ -8,7 +8,8 @@ namespace Mini_shop.DataAccessLayer
         {
             public AppDbContext(DbContextOptions options) : base(options) { }
         public DbSet<Card> Card { get; set; }
-        
+        public DbSet<Comment> Comment { get; set; }
+
     }
     }
 
